@@ -4,7 +4,7 @@ Our team investigated which economic event(s), or conditions, are correlated wit
 
 Using data pulled from sources like Zillow and the BEA, we were able to provide insight on the catalysts behind fluctuations of the real estate market over the course of 20+ years.
 
-We divided the state data into four regions: Northeast, MidWest, South and West; and performed analysis on each region.
+We divided the state data into four regions: Northeast, Midwest, South and West; and performed analysis on each region.
 
 Point of focus: Single Family Home Value, Population, Disposable Income, Consumer Spending. 
 
