@@ -19,4 +19,4 @@ Final_Report.pdf: Formal description of assignment and report of findings from a
 
 Final_Script.Rmd: Contains all code (R) for analysis
 
-Final_Script.html: Download for local webpage containing all code and visualisations 
+Final_Script.html: Download for local webpage containing all code and visualisations  
