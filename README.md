@@ -8,7 +8,7 @@ We divided the state data into four regions: Northeast, Midwest, South and West;
 
 Point of focus: Single Family Home Value, Population, Disposable Income, Consumer Spending. 
 
-In the case of unexpected changes in trends, we explored which economic, or geopolitical events may have been responsible.
+In the case of unexpected changes in trends, we explored which economic, or geopolitical events may have been responsible. 
 
 
 
